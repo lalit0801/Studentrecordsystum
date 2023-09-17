@@ -1,5 +1,6 @@
 // Student Record System :: By Lalit Kumar Yadav
 #include <iostream>
+#include<fstream>
 #include<windows.h>
 using namespace std;
 struct student
