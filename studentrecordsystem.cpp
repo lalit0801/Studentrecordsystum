@@ -1,4 +1,4 @@
-// Student Record System :: By Lalit Kumar Yadav
+// Student Record System :: By Lalit 
 #include <iostream>
 #include<fstream>
 #include<windows.h>
